@@ -609,25 +609,3 @@ body {
   }
 }
 
-@media only screen and (max-width: 450px) {
-  #container {
-    width: 490px;
-  }
-
-  #mainWaper {
-    width: 490px;
-
-  }
-
-  #section3 {
-    width: 490px;
-  }
-
-  #mainPricing {
-    width: 490px;
-  }
-
-  #footer {
-    width: 490px;
-  }
-}
